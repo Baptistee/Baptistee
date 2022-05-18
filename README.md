@@ -1,6 +1,7 @@
 ### ⭐ Fav Languages ⭐
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=blue)
+![C](https://img.shields.io/badge/-C-000?&logo=c%2b%2b&logoColor=orange)
 
 <!--
 **Baptistee/Baptistee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
