@@ -1,4 +1,4 @@
-### ⭐ Fav Languages ⭐
+### ⭐ Fav Languages
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=blue)
 ![C](https://img.shields.io/badge/-C-000?&logo=c%2b%2b&logoColor=orange)
